@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Webdev with Gatsby + Netlify
 image: /img/deep-learning.jpg
-heading: JamStack Web Development
+heading: JamStack Web Developmentation
 subheading: Content publishing in 2020
 mainpitch:
   title: Web development, updated
