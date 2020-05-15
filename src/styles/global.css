@@ -1,6 +1,8 @@
-html {
+html, body {
   background-color: #cccccc;
+  font-family: "Serif";
 }
 a {
   color: rebeccapurple;
 }
+
